@@ -4,6 +4,9 @@ const payAccounts = {
   },
   1: {
     test: 2
+  },
+  2: {
+    test: 3
   }
 }
 module.exports = {
